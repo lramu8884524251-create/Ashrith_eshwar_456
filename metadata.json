@@ -1,0 +1,6 @@
+{
+  "name": "RecoveryTV",
+  "description": "Turn any legacy TV into a modern Smart TV via USB & wireless streaming, with TV App Store, mobile remote companion, legacy CRT calibration, and family parental controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
